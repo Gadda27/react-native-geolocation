@@ -28,7 +28,6 @@
     "validate:eslint": "eslint 'js/**/*.js' 'example/**/*.js'",
     "validate:flow": "flow check",
     "test:jest": "jest js/",
-    "prepare": "bob build"
   },
   "keywords": [
     "react-native",
