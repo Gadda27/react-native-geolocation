@@ -27,7 +27,7 @@
     "test": "yarn validate:eslint && yarn validate:flow && yarn test:jest",
     "validate:eslint": "eslint 'js/**/*.js' 'example/**/*.js'",
     "validate:flow": "flow check",
-    "test:jest": "jest js/",
+    "test:jest": "jest js/"
   },
   "keywords": [
     "react-native",
